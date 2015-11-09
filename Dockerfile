@@ -3,4 +3,5 @@ MAINTAINER Nokyyz <nokyyz@yahoo.fr>
 
 ENV SERIAL_PORT_PATH /dev/ttyACM0 
 
+ADD package.json /root/teleinfo/
 RUN npm install
