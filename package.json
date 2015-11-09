@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "stomp-client": "^0.5.0",
+    "teleinfo": "^0.2.0"
+  }
+}
